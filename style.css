@@ -1,3 +1,7 @@
+:root {
+    --maincolor: rgb(0, 68, 102, 0.5)
+}
+
 *{
     border: border-box;
     margin: 0;
@@ -7,12 +11,12 @@
 .header{
     margin: 0 auto;
     text-align: center;
-    color: rgb(217, 116, 76);
+    color: var(--maincolor);
     margin-bottom : 30px
 }
 
 .container{
-    background-color: rgb(217, 116, 76);
+    background-color: var(--maincolor);
     margin: 0 auto;
     text-align: center;
     width: 400px;
