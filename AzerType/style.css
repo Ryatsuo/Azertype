@@ -1,0 +1,65 @@
+*{
+    border: border-box;
+    margin: 0;
+    font-family: 'Quicksand', serif;
+}
+
+.header{
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(217, 116, 76);
+    margin-bottom : 30px
+}
+
+.container{
+    background-color: rgb(217, 116, 76);
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
+    display: block;
+    color: white;
+    border-radius: 12px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+}
+
+.rules{
+    padding-bottom: 12px;
+}
+
+.valider{
+    margin: 0 auto;
+    text-align: center;
+    text-decoration: none;
+    color: inherit;
+}
+
+.motADeviner{
+    width: 90%;
+    height: 24px;
+    background: white;
+    border-radius: 12px;
+    margin-bottom: 24px;
+    margin: 0 auto;
+    color: black;
+    
+}
+
+.motEcris input{
+    width: 90%;
+    height: 20px;
+    background: white;
+    border-radius: 12px;
+    display: inline-block;
+    margin-bottom: 12px;
+    margin-top: 16px;
+}
+
+input[type="text"] {
+    text-align: center;
+  }
+
+.score {
+    margin-bottom: 16px;
+}
+
