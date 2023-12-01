@@ -1,5 +1,5 @@
 :root {
-    --maincolor: rgb(0, 68, 102, 0.5)
+    --maincolor: rgb(0, 68, 103, 0.5)
 }
 
 *{
@@ -66,4 +66,3 @@ input[type="text"] {
 .score {
     margin-bottom: 16px;
 }
-
